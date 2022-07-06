@@ -53,6 +53,10 @@ h1 {
 
 }
 
+.inline-block {
+    display: inline-block;
+}
+
 #active-amount {
     background-color: rgb(238, 166, 155);
     border: 2px solid rgb(228, 66, 38);
